@@ -8,6 +8,7 @@ A simple bash script for resetting macbook touchbar service
   $ vim touchbar.sh
 
     - Press I (insert) and add following lines:
+    
     ```
     #!/bin/bash
     
